@@ -1,0 +1,12 @@
+# Godot 4 editor and generated data
+.godot/
+/android/
+export_presets.cfg
+*.translation
+
+# Exported builds
+build/
+export/
+
+# macOS
+.DS_Store
